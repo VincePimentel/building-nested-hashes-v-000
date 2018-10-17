@@ -5,7 +5,7 @@ def second_challenge
       matriach: {},
       hero: {},
       hero_friends: {}
-      }, 
+      },
     capulet: {
       patriach: {},
       matriach: {},
