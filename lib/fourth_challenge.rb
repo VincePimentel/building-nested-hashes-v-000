@@ -13,7 +13,7 @@ def fourth_challenge
         {
           :name => "Mercutio",
           :age => "18",
-          :attiude => "hot-headed"
+          :attitude => "hot-headed"
         }
       ]
    },
